@@ -3,9 +3,7 @@
 Je ne suis pas ingénieur mais plutôt ingénieux !
 Créatif, passionné et aimant le travail de groupe. Impliqué depuis 5 ans dans le secteur numérique en tant qu’artiste (Arduino, C++, MaxMsp, Ableton live) et le développement web (React.js, Apps Script).
 
-[![Romain Roux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rom1Roux&count_private=true&theme=tokyonight)](https://github.com/Rom1Roux/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rom1Roux&theme=tokyonight)
+[![Romain Roux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rom1Roux&count_private=true&theme=tokyonight)](https://github.com/Rom1Roux/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rom1Roux&theme=tokyonight)
 
 
 <!--
