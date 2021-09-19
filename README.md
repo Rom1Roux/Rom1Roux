@@ -5,6 +5,8 @@ Créatif, passionné et aimant le travail de groupe. Impliqué depuis 5 ans dans
 
 [![Romain Roux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rom1Roux&count_private=true&theme=tokyonight)](https://github.com/Rom1Roux/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rom1Roux&theme=tokyonight)
+
 
 <!--
 **Rom1Roux/Rom1Roux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
