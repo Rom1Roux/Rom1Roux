@@ -3,7 +3,7 @@
 Je ne suis pas ingénieur mais plutôt ingénieux !
 Créatif, passionné et aimant le travail de groupe. Impliqué depuis 5 ans dans le secteur numérique en tant qu’artiste (Arduino, C++, MaxMsp, Ableton live) et le développement web (React.js, Apps Script).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rom1Roux)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rom1Roux)](https://github.com/Rom1Roux/github-readme-stats)
 
 
 <!--
