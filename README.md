@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Je ne suis pas ingénieur mais plutôt ingénieux !
-Créatif, passionné et aimant le travail de groupe. Je me suis spécialisé dans la technologie Google (Apps Script, Workspace, Cloud) depuis 2019 (Cirruseo, Accenture, Palooma), je m'intéresse également depuis 5 ans au secteur du numérique (impression 3D, Arduino, C++, électronique, développement web, logiciels de médias interactifs, ...).
+Créatif, passionné et aimant le travail de groupe. Je me suis spécialisé dans la technologie Google (Apps Script, Workspace, Cloud) depuis 2019 (Cirruseo, Accenture, Palooma).
+Je m'intéresse également depuis 5 ans au secteur du numérique (impression 3D, Arduino, C++, électronique, développement web, logiciels de médias interactifs, ...).
 
 [![Romain Roux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rom1Roux&count_private=true&include_all_commits&theme=tokyonight)](https://github.com/Rom1Roux/github-readme-stats)  
 
