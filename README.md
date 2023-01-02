@@ -4,6 +4,8 @@ Je ne suis pas ingénieur mais plutôt ingénieux !
 Créatif, passionné et aimant le travail de groupe. Je me suis spécialisé dans la technologie Google (Apps Script, Workspace, Cloud) depuis 2019 (Cirruseo, Accenture, Palooma).
 Je suis également impliqué depuis 5 ans au secteur du numérique (impression 3D, Arduino, C++, électronique, développement web, logiciels de médias interactifs, installation sonore ...).
 
+[Romain ROUX](https://romainroux.com)
+
 [#AppsScript](https://developers.google.com/apps-script/overview) [#GoogleWorkspace](https://workspace.google.com/) [#ReactJs](https://fr.reactjs.org/) [#Arduino](https://www.arduino.cc/en/about) [#DIY](https://en.wikipedia.org/wiki/Do_it_yourself)
 
 <!--
