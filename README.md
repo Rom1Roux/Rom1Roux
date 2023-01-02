@@ -6,8 +6,6 @@ Je suis également impliqué depuis 5 ans au secteur du numérique (impression 3
 
 [#AppsScript](https://developers.google.com/apps-script/overview) [#GoogleWorkspace](https://workspace.google.com/) [#ReactJs](https://fr.reactjs.org/) [#Arduino](https://www.arduino.cc/en/about) [#DIY](https://en.wikipedia.org/wiki/Do_it_yourself)
 
-[![Romain Roux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rom1Roux&count_private=true&include_all_commits&theme=tokyonight)](https://github.com/Rom1Roux/github-readme-stats)  
-
 <!--
 **Rom1Roux/Rom1Roux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
